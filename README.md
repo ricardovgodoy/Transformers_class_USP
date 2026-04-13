@@ -10,7 +10,7 @@ The class combines a theory lecture with a hands-on coding challenge in which st
 
 | File | Purpose | Audience |
 |---|---|---|
-| `Transformers_USP.pptx` | 16-slide lecture deck covering attention, self-attention, multi-head, the Transformer block, decoder masking, training, model families, and applications in robotics | Class projection |
+| `Transformers_USP.pptx` | Lecture slides covering attention, self-attention, multi-head, the Transformer block, decoder masking, training, model families, and applications in robotics | Class projection |
 | `Transformers_Colab_Challenge.ipynb` | Student notebook with scaffolded code and three `TODO` blocks to fill in | Students |
 
 ---
